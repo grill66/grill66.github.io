@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 I am interested in program synthesis, verification, and system security. 
-My ultimate goal is to build the system that fully automates the program development cycle that encompasses code generation, program testing, and patching.
+My ultimate goal is to build systems that fully automate the program development cycle that encompasses code generation, program testing, and patching.
 
 In the recent days, I am focusing on automatically producing efficient and correct program patches for found bugs.
 I hope my work contributes to the community from both theoretical and practical perspectives.
@@ -32,7 +32,7 @@ Prior to this, I worked at the [Agency for Defense Development (ADD)](https://ht
 
 Aside from my academic pursuits, 
 I also enjoy exploring practical techniques called "*Hacking*".
-I personally believe that hacking is similar to comprehensive arts like *Opera* as both require a deep understanding of diverse fields within their respective domains.
+I personally believe that hacking is like comprehensive arts as it requires a deep understanding of diverse fields within computer science.
 
 I earned my M.S. in Information Security from Korea University under the supervision of Prof. Huy Kang Kim, and I received my B.S. in Cyber Defense from Korea University.
 
