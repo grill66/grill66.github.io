@@ -17,16 +17,18 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
-<i class="fa-regular fa-heart"></i>
 
 I am interested in program analysis, software engineering and security. 
 My ultimate goal is to build the system that fully automates the program development cycle that covers code generation, program testing, and patching.
 <!-- My recent study was about locating  -->
 
 
-Aside from my academic interest, 
-I am also interested in practical techniques, which include offensive security, i.e., *Hacking*.
-I think the field of Hacking is attractive; *Hacking* is similar to Comprehensive Arts like *Opera* in that they both demands high-level understanding across various fields of each domain.
+Aside from my academic pursuit, 
+I am also interested in practical techniques, which include offensive security, i.e., *"Hacking"*.
+I think studying Hacking is attractive; *Hacking* is similar to Comprehensive Arts like *Opera* in that they both demands high-level understanding across various fields of each domain.
+
+I receieved my M.S. degree at Korea University majoring in Information Security under supervision of Prof. Huy Kang Kim. 
+I receieved my B.S. degree at Korea University majoring in Cyber Defense.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
