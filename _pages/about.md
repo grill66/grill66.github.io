@@ -17,6 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
+<i class="fa-regular fa-heart"></i>
 
 I am interested in program analysis, software engineering and security. 
 My ultimate goal is to build the system that fully automates the program development cycle that covers code generation, program testing, and patching.
