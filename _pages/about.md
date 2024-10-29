@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: young125492@gmail.com # <a href='#'>Republic of Korea Army</a>. Seoul, Korea. young125492@gmail.com.
 
 profile:
   align: right
