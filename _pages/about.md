@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: young125492@gmail.com # <a href='#'>Republic of Korea Army</a>. Seoul, Korea. young125492@gmail.com.
+subtitle: <i class="fa-solid fa-envelope"></i> young125492@gmail.com <br> zer0fall # <a href='#'>Republic of Korea Army</a>. Seoul, Korea. young125492@gmail.com.
 
 profile:
   align: right
