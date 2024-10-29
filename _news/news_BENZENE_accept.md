@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, <a href='https://ieeexplore.ieee.org/document/10646698'>BENZENE</a>, is accepted to 2024 IEEE S&P (Oakland).
+Our paper, <a href='https://younggi.info/assets/pdf/benzene.pdf'>BENZENE</a>, is accepted to 2024 IEEE S&P (Oakland).
