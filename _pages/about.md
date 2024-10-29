@@ -22,10 +22,12 @@ I am interested in program analysis, software engineering and security.
 My ultimate goal is to build the system that fully automates the program development cycle that covers code generation, program testing, and patching.
 <!-- My recent study was about locating  -->
 
+I am currently working for Ministry of National Defense in Korea for military service.
+And I also worked for the Agency for Defense Development (ADD) where I conducted research on the security of allied computer systems and networks.
 
 Aside from my academic pursuit, 
-I am also interested in practical techniques, which include offensive security (i.e., *"Hacking"*).
-I think studying Hacking is attractive; *Hacking* is similar to Comprehensive Arts like *Opera* in that they both demands high-level understanding across various fields of each domain.
+I am also interested in practical techniques, which include offensive security (i.e., "*Hacking*").
+I believe *Hacking* is similar to Comprehensive Arts like *Opera* in that they both demands high-level understanding across various fields of each domain.
 
 I receieved my M.S. degree at Korea University majoring in Information Security under the supervision of Prof. Huy Kang Kim. 
 I receieved my B.S. degree at Korea University majoring in Cyber Defense.
