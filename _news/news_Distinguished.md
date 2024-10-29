@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper got the Distinguished Paper Award!
+Our paper BENZENE is awarded the Distinguished Paper Award in 2024 IEEE S&P (Oakland)!
