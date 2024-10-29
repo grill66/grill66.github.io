@@ -19,23 +19,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 I am interested in program synthesis, verification, and system security. 
-My ultimate goal is to build the system that fully automates the program development cycle that covers code generation, program testing, and patching.
-In the recent days, I am focusing on automatically producing efficient and correct program patches for found bugs.
+My ultimate goal is to build the system that fully automates the program development cycle that encompasses code generation, program testing, and patching.
+</br>In the recent days, I am focusing on automatically producing efficient and correct program patches for found bugs.
 I hope my works contribute to community in both theoretical and practical perspectives.
 This is why I focus on creating solutions that are scalable and applicable to large and complex programs.
 
 <!-- My recent study was about locating  -->
 
-I am working at Republic of Korea Army as security researcher for the military service.
-Before my current position, I worked at the [Agency for Defense Development (ADD)](https://https://www.add.re.kr/eps) where I conducted research on the security of allied computer systems and networks.
+I am currently working as a security researcher in Republic of Korea Army as part of my military service.
+Prior to this, I worked at the [Agency for Defense Development (ADD)](https://https://www.add.re.kr/eps) where I conducted research on the security of allied computer systems and networks.
 
 Aside from my academic pursuit, 
 I also enjoy exploring practical techniques called "*Hacking*".
 I personally believe that *Hacking* is similar to comprehensive arts like *Opera* because they both demands high-level understanding across various fields of each domain.
 
-
-I receieved my M.S. degree at Korea University majoring in Information Security under the supervision of Prof. Huy Kang Kim. 
-I receieved my B.S. degree at Korea University majoring in Cyber Defense.
+I earned my M.S. in Information Security from Korea University under the supervision of Prof. Huy Kang Kim, and I received my B.S. in Cyber Defense from Korea University.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
