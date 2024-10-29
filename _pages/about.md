@@ -21,7 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 I am interested in program synthesis, verification, and system security. 
 My ultimate goal is to build the system that fully automates the program development cycle that covers code generation, program testing, and patching.
 In the recent days, I am focusing on automatically producing efficient and correct program patches for found bugs.
-I am also committed to contributing to both theoretical and practical perspectives, with a focus on creating solutions that are scalable and applicable to large and complex programs.
+I hope my works contribute to community in both theoretical and practical perspectives.
+This is why I focus on creating solutions that are scalable and applicable to large and complex programs.
 
 <!-- My recent study was about locating  -->
 
