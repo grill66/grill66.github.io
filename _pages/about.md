@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i class="fa-solid fa-envelope"></i> young125492@gmail.com <br><i class="fa-brands fa-github"></i> <a href="https://github.com/zer0fall">zer0fall<a> # <a href='#'>Republic of Korea Army</a>. Seoul, Korea. young125492@gmail.com.
+subtitle: <i class="fa-solid fa-envelope"></i> young125492@gmail.com <br><i class="fa-brands fa-github"></i> <a href="https://github.com/zer0fall">zer0fall<a>
 
 profile:
   align: right
@@ -18,16 +18,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
-I am interested in program analysis, software engineering and security. 
+I am interested in program synthesis, verification, and system security. 
 My ultimate goal is to build the system that fully automates the program development cycle that covers code generation, program testing, and patching.
+In the recent days, I am highly interested in automatically producing efficient and correct program patches for found bugs.
+I am also committed to contributing to both theoretical and practical perspectives, with a focus on creating solutions that are scalable and applicable to large and complex programs.
+
 <!-- My recent study was about locating  -->
 
-I am currently working for Ministry of National Defense in Korea for military service.
+I am currently working for Ministry of National Defense in Korea for the military service.
 And I also worked for the Agency for Defense Development (ADD) where I conducted research on the security of allied computer systems and networks.
 
 Aside from my academic pursuit, 
 I am also interested in practical techniques, which include offensive security (i.e., "*Hacking*").
-I believe *Hacking* is similar to Comprehensive Arts like *Opera* in that they both demands high-level understanding across various fields of each domain.
+I personally believe that *Hacking* is similar to comprehensive arts like *Opera* because they both demands high-level understanding across various fields of each domain.
+
 
 I receieved my M.S. degree at Korea University majoring in Information Security under the supervision of Prof. Huy Kang Kim. 
 I receieved my B.S. degree at Korea University majoring in Cyber Defense.
