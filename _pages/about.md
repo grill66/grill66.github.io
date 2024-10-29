@@ -30,7 +30,7 @@ I am working at Republic of Korea Army as security researcher for the military s
 Before my current position, I worked at the [Agency for Defense Development (ADD)](https://https://www.add.re.kr/eps) where I conducted research on the security of allied computer systems and networks.
 
 Aside from my academic pursuit, 
-I am also interested in practical techniques, which include offensive security (i.e., "*Hacking*").
+I also enjoy exploring practical techniques called "*Hacking*".
 I personally believe that *Hacking* is similar to comprehensive arts like *Opera* because they both demands high-level understanding across various fields of each domain.
 
 
