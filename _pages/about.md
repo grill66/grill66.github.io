@@ -20,13 +20,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 I am interested in program synthesis, verification, and system security. 
 My ultimate goal is to build the system that fully automates the program development cycle that covers code generation, program testing, and patching.
-In the recent days, I am highly interested in automatically producing efficient and correct program patches for found bugs.
+In the recent days, I am focusing on automatically producing efficient and correct program patches for found bugs.
 I am also committed to contributing to both theoretical and practical perspectives, with a focus on creating solutions that are scalable and applicable to large and complex programs.
 
 <!-- My recent study was about locating  -->
 
-I am currently working for Ministry of National Defense in Korea for the military service.
-And I also worked for the Agency for Defense Development (ADD) where I conducted research on the security of allied computer systems and networks.
+I am working at Republic of Korea Army as security researcher for the military service.
+Before my current position, I worked at the [Agency for Defense Development (ADD)](https://https://www.add.re.kr/eps) where I conducted research on the security of allied computer systems and networks.
 
 Aside from my academic pursuit, 
 I am also interested in practical techniques, which include offensive security (i.e., "*Hacking*").
