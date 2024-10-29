@@ -27,7 +27,7 @@ Aside from my academic pursuit,
 I am also interested in practical techniques, which include offensive security (i.e., *"Hacking"*).
 I think studying Hacking is attractive; *Hacking* is similar to Comprehensive Arts like *Opera* in that they both demands high-level understanding across various fields of each domain.
 
-I receieved my M.S. degree at Korea University majoring in Information Security under supervision of Prof. Huy Kang Kim. 
+I receieved my M.S. degree at Korea University majoring in Information Security under the supervision of Prof. Huy Kang Kim. 
 I receieved my B.S. degree at Korea University majoring in Cyber Defense.
 
 <!-- 
