@@ -13,6 +13,15 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GFE6ZPL1N4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GFE6ZPL1N4');
+</script>
+
 <div class="publications">
 
 {% bibliography %}
