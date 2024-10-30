@@ -42,7 +42,7 @@ Prior to this, I worked at the [Agency for Defense Development (ADD)](https://ht
 
 Aside from my academic pursuits, 
 I also enjoy exploring practical techniques called "*Hacking*".
-I personally believe that hacking is like comprehensive arts as it requires a deep understanding of diverse fields within computer science.
+I personally believe that hacking is like a comprehensive art as it requires a deep understanding of diverse fields within computer science.
 So, study of hacking taught me a lot about program analysis, and (more importantly) thinking outside the box.
 
 I earned my M.S. in Information Security from Korea University under the supervision of Prof. Huy Kang Kim, and I received my B.S. in Cyber Defense from Korea University.
