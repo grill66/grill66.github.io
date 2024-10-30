@@ -28,7 +28,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 </script>
 
 
-I am interested in program synthesis, verification, and system security. 
+My research interests include program synthesis, verification, and system security. 
 My ultimate goal is to build systems that fully automate the program development cycle that encompasses code generation, program testing, and patching.
 
 In the recent days, I am focusing on automatically producing efficient and correct program patches for found bugs.
