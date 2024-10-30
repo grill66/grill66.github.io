@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i class="fa-solid fa-envelope"></i> young125492@gmail.com <br><i class="fa-brands fa-github"></i> <a href="https://github.com/zer0fall">zer0fall<a> <br> <i class="fa-solid fa-file"></i> <a href="https://younggi.info/assets/pdf/ygpark_cv.pdf">CV<a>
+subtitle: <i class="fa-solid fa-envelope"></i> young125492@gmail.com <br><i class="fa-brands fa-github"></i> <a href="https://github.com/zer0fall">zer0fall<a> <br>&nbsp;<i class="fa-solid fa-file"></i> <a href="https://younggi.info/assets/pdf/ygpark_cv.pdf">CV<a>
 
 profile:
   align: right
