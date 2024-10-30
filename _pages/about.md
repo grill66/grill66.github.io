@@ -18,6 +18,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GFE6ZPL1N4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GFE6ZPL1N4');
+</script>
+
+
 I am interested in program synthesis, verification, and system security. 
 My ultimate goal is to build systems that fully automate the program development cycle that encompasses code generation, program testing, and patching.
 
