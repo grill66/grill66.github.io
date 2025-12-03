@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:1st_place_medal: Our team, Team Atlanta, won the 1st place for AIxCC!
-
+:1st_place_medal: Our team, <a href='https://team-atlanta.github.io'>Team Atlanta</a>, got 1st Place Winner for <a href='https://aicyberchallenge.com/'>AIxCC</a>!
