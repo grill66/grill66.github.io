@@ -28,7 +28,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 </script>
 
 
-My research interests include AI for software engineering and security, aiming to build systems that fully automate the program development cycle that encompasses code generation, program testing, and patching.
+I am a CS Ph.D. student at the University of Illinois Urbana-Champaign, advised by Prof. [Lingming Zhang](https://lingming.cs.illinois.edu/). My research interests include AI for software engineering and security, aiming to build systems that fully automate the program development cycle that encompasses code generation, program testing, and patching.
 
 In the recent days, I am focusing on automatically producing efficient and correct program patches for found bugs.
 <!-- I hope my work contributes to the community from both theoretical and practical perspectives.
