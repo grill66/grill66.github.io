@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i class="fa-solid fa-envelope"></i> young125492@gmail.com <br><i class="fa-brands fa-github"></i> <a href="https://github.com/zer0fall">zer0fall<a> 
+subtitle: <i class="fa-solid fa-envelope"></i> younggi2@illinois.edu <br><i class="fa-brands fa-github"></i> <a href="https://github.com/grill66">grill66<a> 
 
 profile:
   align: right
